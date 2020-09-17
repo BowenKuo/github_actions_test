@@ -1,4 +1,4 @@
-a=function( x){1+1}           
-ssd
-asd\\/
-slad
+a <- function(x) {
+  return(x+1)
+}
+print(a(3))
